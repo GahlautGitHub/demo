@@ -1,2 +1,4 @@
 file three 
 #this is feature one
+
+checking tracking relationship in feature one
