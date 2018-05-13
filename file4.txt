@@ -1,4 +1,7 @@
 file four
 #this is feature two
 
+<<<<<<< HEAD
 checking brach tracking relationship
+=======
+>>>>>>> 378340a... added four
